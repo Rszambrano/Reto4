@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.usa.g14.reto3.Reto3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 71.895 s - in com.usa.g14.reto3.Reto3ApplicationTests
